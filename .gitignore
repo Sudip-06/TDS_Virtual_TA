@@ -1,0 +1,14 @@
+# Ignore directories
+downloaded_threads/
+markdown_files/
+__pycache__/
+venv/
+.venv/
+
+# Ignore files
+.env
+preprocess.py
+tests.yaml
+project-tds-virtual-ta-q1.webp
+*.pyc
+.DS_Store
