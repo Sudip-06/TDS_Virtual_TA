@@ -71,6 +71,7 @@ Response:
 `GET /health`
 
 
+
 Returns the health status of the service and database statistics.
 
 ## License
